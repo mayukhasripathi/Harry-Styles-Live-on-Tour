@@ -1,0 +1,41 @@
+img {
+	width: 360px;
+    margin: 10px;
+    height: 260px;
+}
+
+p {
+	color: black;
+}
+
+h1 { 
+    font-family:'Playfair Display';
+    text-align: center;
+    font-size: 40px;
+}
+input {
+    margin: 0 auto;
+    display: block;
+    color: black;
+    }
+button {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    font-family:'Playfair Display';
+    padding: 3px 8px;
+}
+
+body {
+	background-color: #EAE6FF;
+    border: 3px solid;
+    border-style: dashed;
+    border-color: #5941EA;
+}
+
+button:hover{
+    background-color: #4E5354;
+}
